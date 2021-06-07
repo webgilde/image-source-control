@@ -102,6 +102,7 @@ See the _Instructions_ section [here](https://wordpress.org/plugins/image-source
 
 = untagged =
 
+- added `isc_public_source_url_html` filter to manipulate the source link HTML
 - allow source injection into content outside the loop when using Oxygen page builder
 
 = 2.2.1 =
